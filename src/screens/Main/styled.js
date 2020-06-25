@@ -4,10 +4,9 @@ import { CoinInput as _CoinInput, Input as _Input, Button as _Button } from 'ui/
 
 export const Wrapper = styled.div`
   width: 960px;
-  height: 540px;
   display: flex;
   border: 1px solid #fff;
-  padding: 14px 40px 6px 40px;
+  padding: 14px 40px 60px 40px;
   background: ${p => p.theme.colors.white};
   display: flex;
   flex-direction: column;
