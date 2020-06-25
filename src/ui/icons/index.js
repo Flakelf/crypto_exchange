@@ -1,0 +1,5 @@
+export { default as Bitcoin } from './bitcoin.svg'
+export { default as Exchange } from './exchange.svg'
+export { default as Ethereum } from './ethereum.svg'
+export { default as Monero } from './monero.svg'
+export { default as Litecoin } from './litecoin.svg'
